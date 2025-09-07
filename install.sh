@@ -1,1 +1,3 @@
-echo "Installing arch..."
+echo "Installing git..."
+
+sudo pacman -Sy git
